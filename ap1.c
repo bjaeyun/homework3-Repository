@@ -12,12 +12,12 @@ printf("list[0] = %d\n", list[0]); //list[0]의 값
 printf("&list[0] = %p\n", &list[0]); //list[0]의 주소
 printf("list = %p\n", list); // list배열의 주소
 printf("&list = %p\n", &list); //list배열의 시작 주소
-printf("----------------------------------------\n\n");
+printf("----- [변재윤] [2022041046] -------\n\n");
 printf("list[1] = %d\n", list[1]); //list[1]의 값
 printf("&list[1] = %p\n", &list[1]); //list[1]의 주소
 printf("*(list+1) = %d\n", *(list + 1));//list[1]과 같은 갑인 *(list+1) 값
 printf("list+1 = %p\n", list+1); //list[1]의 주소
-printf("----------------------------------------\n\n");
+printf("----- [변재윤] [2022041046] -------\n\n");
 printf("*plist[0] = %d\n", *plist[0]); //plist[0]이 가리키는 값 값
 printf("&plist[0] = %p\n", &plist[0]); //plist[0]의 주소
 printf("&plist = %p\n", &plist); //plist배열의 시작 주소
