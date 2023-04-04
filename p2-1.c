@@ -10,7 +10,7 @@ void main(void)
 for(i=0; i < MAX_SIZE; i++) // 배열 input[]을 0부터 MAX_SIZE - 1까지의 숫자로 초기화
 input[i] = i;
 /* for checking call by reference */
-printf("--------------------------------------\n");
+printf("\n");
 printf(" sum1(input, MAX_SIZE) \n");
 printf("--------------------------------------\n");
 printf("input \t= %p\n", input);
