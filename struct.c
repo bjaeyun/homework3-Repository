@@ -11,6 +11,7 @@ char grade;
 } student2;
 int main() {
 struct student1 st1 = {'A', 100, 'A'}; //student1 타입의 변수 st1을 선언하고 초기화
+printf("----- [변재윤] [2022041046] -------\n\n");
 printf("st1.lastName = %c\n", st1.lastName); //st1의 lastName 값 출력
 printf("st1.studentId = %d\n", st1.studentId); //st1의 studentId 값 출력
 printf("st1.grade = %c\n", st1.grade); //st1의 grade 값 출력
